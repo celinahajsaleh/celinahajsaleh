@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/celinahajsaleh/celinahajsaleh/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://raw.githubusercontent.com/celinahajsaleh/celinahajsaleh/output/snake.svg)
 
 ###
