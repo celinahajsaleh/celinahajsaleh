@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="hajsalehcelina@gmail.com" target="_blank">
+  <a href="mailto:hajsalehcelina@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/celinahajsaleh/" target="_blank">
@@ -66,16 +66,15 @@
 </div>
 
 ###
+<div>
+<img align="right" height="200" width="200" src="https://media.giphy.com/media/3ohzgSHpvk6b8M7f9e/giphy.gif?cid=790b7611ei6gnt91otciyr76ckh35sjoocxpdwrwq2gdzm9g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<img align="right" height="200" src="https://media.giphy.com/media/3ohzgSHpvk6b8M7f9e/giphy.gif?cid=790b7611ei6gnt91otciyr76ckh35sjoocxpdwrwq2gdzm9g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31bnrn4xwlwfdp5uxg7rrc6kjysy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bnrn4xwlwfdp5uxg7rrc6kjysy&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bnrn4xwlwfdp5uxg7rrc6kjysy&count=5&unique=true"   alt="Spotify recently played"  />
   </a>
-</div>
+</div></div>
 
 ###
 
