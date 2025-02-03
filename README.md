@@ -1,16 +1,9 @@
-<h2 align="left">Hi 👋! My name is Celina and I'm a Computer Science student!</h2>
+<h2 align="left">Hey!<br> My name is Celina👩🏻‍💻🎀👾 </h2>
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celinahajsaleh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="121" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=celinahajsaleh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="121" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinahajsaleh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="134" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/celinahajsaleh/count.svg?"  />
 </div>
 
@@ -66,11 +59,13 @@
 </div>
 
 ###
+
 <div>
+  
 <img align="right" height="200" width="200" src="https://media.giphy.com/media/3ohzgSHpvk6b8M7f9e/giphy.gif?cid=790b7611ei6gnt91otciyr76ckh35sjoocxpdwrwq2gdzm9g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31bnrn4xwlwfdp5uxg7rrc6kjysy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bnrn4xwlwfdp5uxg7rrc6kjysy&count=5&unique=true"   alt="Spotify recently played"  />
   </a>
